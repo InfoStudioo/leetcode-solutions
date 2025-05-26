@@ -24,6 +24,8 @@ Each file contains:
 ## 📌 Example Files
 
 - `LeetCodePushDominoes.js` – Solution to LeetCode 838 using two-pointer simulation.
+- `mergeSortedList.js` - Solution to LeetCode 21 using iterative merge of two linked lists.
+- `twoSum.js` - Solution to LeetCode 1 using a hash map for constant-time lookups.
 - More solutions coming soon!
 
 ---
