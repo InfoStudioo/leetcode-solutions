@@ -23,7 +23,7 @@ Each file contains:
 
 ## 📌 Example Files
 
-- `pushDominoes.js` – Solution to LeetCode 838 using two-pointer simulation.
+- `LeetCodePushDominoes.js` – Solution to LeetCode 838 using two-pointer simulation.
 - More solutions coming soon!
 
 ---
