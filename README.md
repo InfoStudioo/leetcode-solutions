@@ -26,6 +26,9 @@ Each file contains:
 - `LeetCodePushDominoes.js` – Solution to LeetCode 838 using two-pointer simulation.
 - `mergeSortedList.js` - Solution to LeetCode 21 using iterative merge of two linked lists.
 - `twoSum.js` - Solution to LeetCode 1 using a hash map for constant-time lookups.
+- `CloneGraph.js` - Solution to LeetCode 133 using BFS and a hash map to clone an undirected graph.
+- `SerializeDeserializeBST.js` - Solution to LeetCode 449 using preorder traversal for compact BST serialization adeserialization.
+- `LngestConsecutiveSequeence.js` - Solution to LeetCode 128 using a hash set to track and expand consecutive sequences.
 - More solutions coming soon!
 
 ---
