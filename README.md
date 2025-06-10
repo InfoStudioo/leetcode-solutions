@@ -30,6 +30,8 @@ Each file contains:
 - `SerializeDeserializeBST.js` - Solution to LeetCode 449 using preorder traversal for compact BST serialization adeserialization.
 - `LngestConsecutiveSequeence.js` - Solution to LeetCode 128 using a hash set to track and expand consecutive sequences.
 - `Leetcode19.js` - Solution to LeetCode 19 using two-pointer technique to remove the N-th node from end of a linked list.
+- `FindMinimumInArray.js` - Solution to LeetCode 153 using binary search to find the minimum element in a rotated sorted array.
+- `PalindrominSubstrings.js` - Solution to LeetCode 647 using dynamic programming to count all palindromic substrings in a string.
 - More solutions coming soon!
 
 ---
