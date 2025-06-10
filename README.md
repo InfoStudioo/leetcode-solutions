@@ -33,6 +33,7 @@ Each file contains:
 - `FindMinimumInArray.js` - Solution to LeetCode 153 using binary search to find the minimum element in a rotated sorted array.
 - `PalindrominSubstrings.js` - Solution to LeetCode 647 using dynamic programming to count all palindromic substrings in a string.
 - `ContainerWithWater.js` - Solution to LeetCode 11 using two-pointer technique to find the maximum area container.
+- `CombinationSum.js` - Solution to LeetCode 39 using backtracking to find all unique combinations that sum to a target.
 - More solutions coming soon!
 
 ---
