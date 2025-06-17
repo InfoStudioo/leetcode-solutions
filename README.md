@@ -35,6 +35,10 @@ Each file contains:
 - `ContainerWithWater.js` - Solution to LeetCode 11 using two-pointer technique to find the maximum area container.
 - `CombinationSum.js` - Solution to LeetCode 39 using backtracking to find all unique combinations that sum to a target.
 - `ReorderList.js` -  Solution to LeetCode 143 using a combination of middle finding, list reversal, and merge to reorder a linked list.
+- `RotateImage.js` – Solution to LeetCode 48 by transposing the matrix and reversing each row to rotate it 90 degrees clockwise.
+- `SpiralMatrix.js` – Solution to LeetCode 54 using boundary pointers to traverse a matrix in spiral order.
+- `NumberOfIslands.js` – Solution to LeetCode 200 using DFS to count disconnected land masses in a 2D grid.
+- `LowestCommonAncestor.js` – Solution to LeetCode 235 using BST properties to find the lowest common ancestor of two nodes.
 - More solutions coming soon!
 
 ---
